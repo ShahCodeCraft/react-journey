@@ -1,0 +1,9 @@
+@import 'reactflow/dist/base.css';
+@import 'react-loading-skeleton/dist/skeleton.css';
+@import 'react-quill/dist/quill.snow.css';
+/* Include Tailwind CSS styles with a prefix */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import the base styles of React Flow */
